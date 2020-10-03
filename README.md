@@ -16,10 +16,10 @@
 
  <h2 align='center'>"Code never lie but sometimes comments do.."</h2>
 
- <h2 align='center'>"I learn, code and work hard to payback my Parents and Nation..🇮🇳🇮🇳🇮🇳🇮🇳"</h2>
+ <h2 align='center'>"I learn, code and work hard to payback my Parents and Nation</h2>
 
  <h2 align='center'>"🇮🇳🇮🇳🇮🇳🇮🇳Jai Hind Vande Matharam🇮🇳🇮🇳🇮🇳🇮🇳"</h2>
-
+<h1 align='center'>🕉</h1>
 <div style="height: 90px;"></div>
 
 
