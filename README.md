@@ -4,6 +4,21 @@
 <div align='center'>
 <img  src="FILE-2020-10-03-15-51-14-unscreen.gif" width="280">
 <img align='right' style="border-radius: 90px" src="C60526BE-EB92-4926-AAD4-5E6F169EF121_4_5005_c.jpeg" width="130"></div>
+<div style="height: 60px;"></div>
+
+<hr width="900px">
+<div style="height: 60px;"></div>
+<h2 align='center'  color='red'> About Me.</h2>
+<h3 align='center'  color='red'> Hi, this is Tarush J. Reddy I am a third year Computer Science student in  BMS institute of technology and management.... I am  Full Stack Developer, Artificial Intelligence Enthusiast, Machine Learning for ever, Web and App development is my life,
+ </h3>
+
+
+
+ <h2 align='center'>"Code never lie but sometimes comments do.."</h2>
+
+<div style="height: 90px;"></div>
+
+
 
 
 
