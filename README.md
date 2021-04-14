@@ -93,11 +93,6 @@
 <div style="height: 90px;"></div>
 <hr>
 
-<div style="height: 90px;"></div>
-<a href="https://github.com/tarushjreddy/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarushjreddy&theme=radical&hide=glsl,python" />
-</a>
 
 
 
