@@ -8,13 +8,15 @@
 
 
 
+<br height="100px"></br>
 
-<h2 align='center'  color='red'> Social Media</h2>
 
 <div align='center'>
 
 
 [![Twitter Badge](https://img.shields.io/badge/tarushjreddy-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tarushjreddy)](https://twitter.com/tarushjreddy)   [![Linkedin Badge](https://img.shields.io/badge/TarushJ.Reddy-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Tarush-J.-Reddy-71849a148/)  [![Gmail Badge](https://img.shields.io/badge/tarushjreddy63@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tarushjreddy63@gmail.com)](mailto:tarushjreddy63@gmail.com)  [![Twitter Badge](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://twitter.com/tarushjreddy)](https://whatsapp.com/) [![Twitter Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://twitter.com/tarushjreddy)](https://instagram.com/) 
+
+
 </div>
 <div style="height: 90px;"></div>
 
