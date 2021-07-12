@@ -3,10 +3,10 @@
 <div align='center'>
 <img  src="177omsairam.svg" width="100%",height="500px" style="border: black 1px solid">
 </div>
-<img src="mainone.svg" style="height:70px; width:100px "/>
 
 
 
+<p>🧿</p>
 
 
 <br height="100px"></br>
