@@ -80,7 +80,7 @@
 </div>
 <div style="height: 60px;"></div>
 
-<hr width="900px">
+<hr width="800px">
 <div style="height: 60px;"></div>
 <h2 align='center'  color='red'> Social Media</h2>
 
