@@ -8,25 +8,6 @@
 
 <hr width="900px">
 <div style="height: 60px;"></div>
-<h2 align='center'  color='red'> About Me.</h2>
-<h3 align='center'  color='red'> Hi, this is Tarush J. Reddy I am a third year Computer Science student in  BMS institute of technology and management.... I am  Full Stack Developer, Artificial Intelligence Enthusiast, Machine Learning for ever, Web and App development is my life,
- </h3>
-
-
-
- <h2 align='center'>"Code never lie but sometimes comments do.."</h2>
-
- <h2 align='center'>"I learn, code and work hard to payback my Parents and Nation</h2>
-
- <h2 align='center'>"🇮🇳🇮🇳🇮🇳🇮🇳Jai Hind Vande Matharam🇮🇳🇮🇳🇮🇳🇮🇳"</h2>
-<h1 align='center'>🕉</h1>
-<div style="height: 90px;"></div>
-
-
-
-
-
-
 
 
 <hr width="900px">
