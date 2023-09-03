@@ -1,100 +1,31 @@
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1376-blue)
-
-![Lines of code](https://img.shields.io/badge/De%20Hello%20World%2C%20j%27ai%20%C3%A9crit-2.8%20million%20Lignes%20de%20code-blue)
-
-**🐱 Mes données GitHub** 
-
-> 🏆 500 contributions en 2020
- > 
-> 📦 0 Bytes utilisés dans le stockage de GitHub 
- > 
-> 💼 A choisi d'embaucher
- > 
-> 📜 27 référentiels publics
- > 
-> 🔑 0 référentiel privé 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Matin      70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
-🌆 Jour       147 commits    ████████░░░░░░░░░░░░░░░░░   32.17% 
-🌃 crépuscule 129 commits    ███████░░░░░░░░░░░░░░░░░░   28.23% 
-🌙 Nuit       111 commits    ██████░░░░░░░░░░░░░░░░░░░   24.29%
-
-```
-📅 **Je suis le plus productif dimanche** 
-
-```text
-Lundi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Mardi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Mercredi     51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
-Jeudi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Vendredi     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
-samedi       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-dimanche     103 commits    █████░░░░░░░░░░░░░░░░░░░░   22.54%
-
-```
+# 💫 About Me:
+I am a passionate software developer specializing in the dynamic fields of web and mobile application development. My expertise extends to integrating and developing Machine Learning and Artificial Intelligence solutions, adding a layer of intelligence to software systems. One of my standout skills is crafting blazing-fast and highly dynamic APIs to power modern applications.<br><br>My GitHub profile is a testament to my diverse skill set, featuring a rich portfolio of projects encompassing complex algorithms, machine learning models, AI applications, and both web and mobile development. With a strong commitment to code quality and documentation, I ensure that my projects not only function flawlessly but are also accessible and understandable to fellow developers. My GitHub contributions reflect my dedication to open-source collaboration and innovation in the ever-evolving world of technology.
 
 
-📊 **Cette semaine, je passe mon temps** 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tarushjr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realtarushjr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/realtarushjr) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@realtarushjr) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/realtarushjr) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/realtarushjr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/realtarushjr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/realtarushjr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@realtarushjr) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/realtarushjr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/realtarushjr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@realtarushjr) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/realtarushjr) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@realtarushjr) 
 
-```text
-⌚︎ fuseau horaire: Asia/Kolkata
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tarushjreddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tarushjreddy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarushjreddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-💬 Langages de programmation: 
-JavaScript               8 hrs 10 mins       ██████████████░░░░░░░░░░░   56.72% 
-Dart                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
-Java                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🔥 Éditeurs de code: 
-WebStorm                 9 hrs 13 mins       ████████████████░░░░░░░░░   64.07% 
-Android Studio           5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.88% 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tarushjreddy&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-🐱‍💻 projets: 
-airline-module           6 hrs 51 mins       ████████████░░░░░░░░░░░░░   47.59% 
-invoice_app              2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-E-Invoice Verify         1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
-cable_socket             1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-invoice_app_1            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.39%
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-💻 système opérateur: 
-Windows                  14 hrs 24 mins      █████████████████████████   100.0%
-
-```
-
-**Je code principalement dans Vue** 
-
-```text
-Vue                      8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-Java                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-```mermaid
-flowchart TB
-    subgraph ROR_agent
-    m1[RoR Modbus Server]
-    m2[RoR Modbus Client]
-    end
-    subgraph FSM_AGENT
-    m2 --> m3[FSM Modbus Server]
-    m4[FSM Modbus Client] -->m1
-    end
-```
 ---
+[![](https://visitcount.itsvg.in/api?id=tarushjreddy&icon=2&color=1)](https://visitcount.itsvg.in)
 
-- hello
-- world
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/realtarushjr) 
 
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
