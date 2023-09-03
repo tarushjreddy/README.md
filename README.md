@@ -1,6 +1,10 @@
 <div align="center">
+
 # 💫 About Me:
+
 I am a passionate software developer specializing in the dynamic fields of web and mobile application development. My expertise extends to integrating and developing Machine Learning and Artificial Intelligence solutions, adding a layer of intelligence to software systems. One of my standout skills is crafting blazing-fast and highly dynamic APIs to power modern applications.<br><br>My GitHub profile is a testament to my diverse skill set, featuring a rich portfolio of projects encompassing complex algorithms, machine learning models, AI applications, and both web and mobile development. With a strong commitment to code quality and documentation, I ensure that my projects not only function flawlessly but are also accessible and understandable to fellow developers. My GitHub contributions reflect my dedication to open-source collaboration and innovation in the ever-evolving world of technology.
+
+<img src="./Image.png"></img>
 
 
 ## 🌐 Socials:
