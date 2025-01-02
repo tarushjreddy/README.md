@@ -25,28 +25,6 @@ I am a passionate software developer specializing in the dynamic fields of web a
 
 
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</br>
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=tarushjreddy&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
-
-
-</br>
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=tarushjreddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
-</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tarushjreddy&theme=dark&hide_border=false)</br>
-</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarushjreddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-</br>
-![](https://github-contributor-stats.vercel.app/api?username=tarushjreddy&limit=5&theme=dark&combine_all_yearly_contributions=true)</br>
-
-</br>
 
 # 😂 Random Dev Meme
 
